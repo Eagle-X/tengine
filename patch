@@ -1,0 +1,2 @@
+Modify:
+    1) Send fastcgi abort request message to nginx peer when user aborts its http request.
